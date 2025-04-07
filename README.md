@@ -1,2 +1,1 @@
-# TransactionScript
-Transaction Script Pattern
+# Transaction Script Pattern
